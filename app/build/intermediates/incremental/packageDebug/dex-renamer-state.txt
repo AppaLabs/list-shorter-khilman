@@ -1,0 +1,7 @@
+#Tue Aug 22 20:24:15 WIB 2017
+base.0=/home/khilman/Documents/training-minggu-pertama/MyListShorter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5b09815e280c002853799c1010a9e8b66ce6351e
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/khilman/Documents/training-minggu-pertama/MyListShorter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e01dd5c98726bb753ca7b8967f0663e4b8275c77/classes.dex
+base.1=/home/khilman/Documents/training-minggu-pertama/MyListShorter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e01dd5c98726bb753ca7b8967f0663e4b8275c77
+file.0=/home/khilman/Documents/training-minggu-pertama/MyListShorter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5b09815e280c002853799c1010a9e8b66ce6351e/classes.dex
